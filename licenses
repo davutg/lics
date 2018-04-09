@@ -1,10 +1,9 @@
-"licenses":[
-  {
-    "key": "EOFBeta2018License",
-    "val": "sJTGgnf928qRY4kq6h7/LA=="
-  },
-  {
-    "key": "Invalid",
-    "val": "InvalidKeyHash"
-  }
-]
+{
+  "licenses" : [ {
+    "key" : "EOFBeta2018License",
+    "val" : "sJTGgnf928qRY4kq6h7/LA=="
+  }, {
+    "key" : "Invalid",
+    "val" : "InvalidKeyHash"
+  } ]
+}
