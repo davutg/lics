@@ -1,3 +1,10 @@
-sJTGgnf928qRY4kq6h7/LA==
-dummy
-3
+[
+  {
+    key: "EOFBeta2018License",
+    val: "sJTGgnf928qRY4kq6h7/LA=="
+  },
+  {
+    key: "Invalid",
+    val: "InvalidKeyHash"
+  }
+]
