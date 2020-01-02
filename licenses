@@ -6,7 +6,11 @@
   {
     "key" : "EOYTemp2O19LicenseEzHealthL@galS@ret",
     "val" : "2a3XSEqaEaBKfroWZXQ0Bg=="
-  }  
+  },
+  {
+    "key" : "EOYTemp2O21LicenseEzHealthL@galS@ret",
+    "val" : "NUZl3TOtgS+eoVet85ACCw=="
+  }
   , {
     "key" : "Invalid",
     "val" : "InvalidKeyHash"
