@@ -1,18 +1,24 @@
 {
-  "licenses" : [ {
-    "key" : "EOFBeta2018License",
-    "val" : "sJTGgnf928qRY4kq6h7/LA=="
-  },
-  {
-    "key" : "EOYTemp2O19LicenseEzHealthL@galS@ret",
-    "val" : "2a3XSEqaEaBKfroWZXQ0Bg=="
-  },
-  {
-    "key" : "EOYTemp2O21LicenseEzHealthL@galS@ret",
-    "val" : "NUZl3TOtgS+eoVet85ACCw=="
-  }
-  , {
-    "key" : "Invalid",
-    "val" : "InvalidKeyHash"
-  } ]
+  "licenses": [
+    {
+      "key": "EOFBeta2018License",
+      "val": "sJTGgnf928qRY4kq6h7/LA=="
+    },
+    {
+      "key": "EOYTemp2O19LicenseEzHealthL@galS@ret",
+      "val": "2a3XSEqaEaBKfroWZXQ0Bg=="
+    },
+    {
+      "key": "EOYTemp2O21LicenseEzHealthL@galS@ret",
+      "val": "NUZl3TOtgS+eoVet85ACCw=="
+    },
+    {
+      "key": "EOYTemp2O22LicenseEzHealthL@galS@cret",
+      "val": "G33GRk4/Xv0hY2+jFKWOyQ=="
+    },
+    {
+      "key": "Invalid",
+      "val": "InvalidKeyHash"
+    }
+  ]
 }
